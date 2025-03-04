@@ -16,7 +16,7 @@ Below are key visualizations that illustrate the findings from this analysis:
 
 #### Vehicle Theft Trends by Population and Density
 
-![Vehicle Theft Trends by Population and Density](Motor_Vehicle_Thefts/assets/Obj3a_Data_Viz.png)
+![Vehicle Theft Trends by Population and Density](/assets/Obj3a_Data_Viz.png)
 
 #### Theft Distribution Across Regions
 
