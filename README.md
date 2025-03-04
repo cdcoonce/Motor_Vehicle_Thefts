@@ -16,19 +16,19 @@ Below are key visualizations that illustrate the findings from this analysis:
 
 #### Vehicle Theft Trends by Population and Density
 
-![Vehicle Theft Trends by Population and Density](/assets/Obj3a_Data_Viz.png)
+![Vehicle Theft Trends by Population and Density](assets/Obj3a_Data_Viz.png)
 
 #### Theft Distribution Across Regions
 
-![Theft Distribution Across Regions](/assets/Obj3b_Data_Viz.png)
+![Theft Distribution Across Regions](assets/Obj3b_Data_Viz.png)
 
 #### Vehicle Thefts by Color and Type
 
-![Vehicle Thefts by Color and Type](/assets/Obj2_Data_Viz.png)
+![Vehicle Thefts by Color and Type](assets/Obj2_Data_Viz.png)
 
 #### Theft Frequency by Day of the Week
 
-![Theft Frequency by Day of the Week](/assets/Obj1_Data_Viz.png)
+![Theft Frequency by Day of the Week](assets/Obj1_Data_Viz.png)
 
 ## Tools Used
 
