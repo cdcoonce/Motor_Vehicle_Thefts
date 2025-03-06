@@ -307,3 +307,9 @@ LIMIT 5);
 - Silver is the most frequently stolen vehicle color, followed by white and black.
 - Station wagons, saloons, and hatchbacks are the most stolen vehicle types.
 - Luxury vehicles account for a small proportion of total thefts.
+
+---
+
+## Acknowledgments
+
+This project was completed as part of a guided learning experience with **Maven Analytics**. Special thanks to Maven Analytics for providing structured guidance and high-quality datasets to enhance analytical skills.
